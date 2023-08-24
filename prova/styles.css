@@ -1,0 +1,19 @@
+@import url("header.css");
+@import url("banner.css");
+
+:root{
+    --cor-de--fundo: #56b3cf;
+    --cor-do-menu:rgba(252, 255, 250, 0.797);
+    --titulo: #00455a;
+    --cor-do-menu-fundo: #ccedf3;
+    --link-1: #c778fc;
+    --link-2: #c778fc;
+    --link-3: #c778fc;
+    --fonte-principal:"Fasthand"
+}
+body{
+    background-color: var(--cor-de--fundo);
+    font-family: var(--fonte-principal);
+    font-size: 16px;
+    font-weight: 400;
+}
